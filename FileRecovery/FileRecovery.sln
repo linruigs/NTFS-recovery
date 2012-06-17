@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileRecovery", "FileRecovery\FileRecovery.vcproj", "{E0A77DB2-78D2-4B98-A80C-EEE8D7D1382B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A77DB2-78D2-4B98-A80C-EEE8D7D1382B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0A77DB2-78D2-4B98-A80C-EEE8D7D1382B}.Debug|Win32.Build.0 = Debug|Win32
+		{E0A77DB2-78D2-4B98-A80C-EEE8D7D1382B}.Release|Win32.ActiveCfg = Release|Win32
+		{E0A77DB2-78D2-4B98-A80C-EEE8D7D1382B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
